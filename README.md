@@ -97,3 +97,5 @@ facenet-pytorch==2.5.0
 torch==1.9.0
 dlib==19.21.1
 ```
+
+
