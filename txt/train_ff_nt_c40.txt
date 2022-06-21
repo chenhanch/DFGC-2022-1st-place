@@ -1,0 +1,4 @@
+/data/FaceForensics/manipulated_sequences/NeuralTextures/c40/videos/071_054.mp4  1
+/data/FaceForensics/manipulated_sequences/NeuralTextures/c40/videos/054_071.mp4  1
+/data/FaceForensics/original_sequences/youtube/c40/videos/071.mp4  0
+/data/FaceForensics/original_sequences/youtube/c40/videos/054.mp4  0

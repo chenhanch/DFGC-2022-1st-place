@@ -1,0 +1,4 @@
+/data/FaceForensics/FF++_HifiFace_face/HifiFace/071_054.mp4  1
+/data/FaceForensics/FF++_HifiFace_face/HifiFace/054_071.mp4  1
+/data/FaceForensics/FF++_HifiFace_face/youtube/071.mp4  0
+/data/FaceForensics/FF++_HifiFace_face/youtube/054.mp4  0

@@ -1,0 +1,2 @@
+/data/DeepForensic/images/source_videos/M131/light_leftdown/happy/camera_leftfront/M131_light_leftdown_happy_camera_leftfront.mp4  0
+/data/DeepForensic/images/manipulated_videos/end_to_end_mix_4_distortions/527_W036.mp4  1

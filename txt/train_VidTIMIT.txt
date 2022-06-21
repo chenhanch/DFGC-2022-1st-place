@@ -1,0 +1,3 @@
+/data/DeepfakeTIMIT/higher_quality/mrgg0/sa1-video-msjs1.avi  1
+/data/DeepfakeTIMIT/VidTIMIT/mrjo0/video/sx194  0
+/data/DeepfakeTIMIT/lower_quality/mrjo0/sx194-video-mstk0.avi  1

@@ -1,0 +1,3 @@
+/data/Celeb-DF-v2/face_crop_png/Celeb-real/id53_0008.mp4  0
+/data/Celeb-DF-v2/face_crop_png/Celeb-synthesis/id55_id53_0002.mp4  1
+/data/Celeb-DF-v2/face_crop_png/YouTube-real/00140.mp4  0

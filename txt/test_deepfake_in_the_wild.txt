@@ -1,0 +1,2 @@
+/data/deepfake_in_the_wild/real_test/66/real/92  0
+/data/deepfake_in_the_wild/fake_test/15/fake/132  1

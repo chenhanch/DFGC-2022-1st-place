@@ -1,0 +1,2 @@
+/data/faceforensics_image/original_sequences/actors/c23/videos/01__secret_conversation.mp4  0
+/data/faceforensics_image/manipulated_sequences/DeepFakeDetection/c23/videos/20_14__walking_and_outside_surprised__B014BKVO.mp4  1

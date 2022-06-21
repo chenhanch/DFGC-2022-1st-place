@@ -1,0 +1,2 @@
+/data/UADFV/video/fake/0023_fake.mp4  1
+/data/UADFV/video/real/0022.mp4  0
