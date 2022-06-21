@@ -4,7 +4,7 @@ This repo provides an solution for the DeepFake Game Competition (DFGC) @ IJCB 2
 
 ## 1. Authors
 
-Institution: Shenzhen Key Laboratory of Media Information Content Security(MICS)
+Institution: Shenzhen Key Laboratory of Media Information Content Security([MICS](http://media-sec.szu.edu.cn/))
 
 Adviser: [Professor Bin Li](http://media-sec.szu.edu.cn/view/libin105.html) 
 
